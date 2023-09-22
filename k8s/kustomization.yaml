@@ -8,4 +8,4 @@ resources:
 images:
 - name: goserver
   newName: leooliveira1159/gitopsfc
-  newTag: novatag
+  newTag: 8f7ff1c01ba917bc2c08821985398b2e28e4c91d
